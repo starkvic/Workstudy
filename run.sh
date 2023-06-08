@@ -1,0 +1,2 @@
+cd Workstudy
+pipenv shell
